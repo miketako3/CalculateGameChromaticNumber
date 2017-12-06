@@ -7,12 +7,12 @@ Please be careful that it is very dirty code and is not optimized.
 This code needs 3 arguments.
   *adjacency_matrix_file
     this is as follow
-    ``` r
+    ``` 
      0 1 1 0
      1 0 1 1
      0 0 0 1
      0 1 1 0
-     ```
+     ```r
   *number_of_vertices
   *number_of_colors
   
