@@ -1,4 +1,4 @@
-## CalcGCN
+## calculate game chromatic number
 This is a program which calculate the game chromatic number of graphs by searching and-or tree.
 
 ## how to use
@@ -11,3 +11,6 @@ Following is ordering of arguments
 ```
 $ ./a.out ${adjacency_matrix_file} ${number_of_vertices} ${number_of_colors}
 ```
+
+## output
+Output is "Alice win" or "Bob win". Alice is first move player and Bob is otherwise.
